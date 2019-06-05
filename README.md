@@ -8,4 +8,4 @@
 
 效果图：
 
-![rightsTable](C:\Users\CL\Desktop\myGit\checkeTable\rightsTable.png)
+![rightsTable](https://github.com/guoxiaxia/checkeTable/blob/master/rightsTable.png)
