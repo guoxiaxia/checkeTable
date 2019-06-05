@@ -3,3 +3,9 @@
 
 支持三级结构的复选框，以表格形式展现,
 可请求getRightsAll()方法获取当前所选复选框的id集合，字符串形式（'，'隔开）
+
+
+
+效果图：
+
+![rightsTable](C:\Users\CL\Desktop\myGit\checkeTable\rightsTable.png)
